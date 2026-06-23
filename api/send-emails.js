@@ -1,6 +1,6 @@
 const SUPABASE_URL = "https://dcxjqhiimcldtlfzhaka.supabase.co";
 const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRjeGpxaGlpbWNsZHRsZnpoYWthIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODIxMzAwNjcsImV4cCI6MjA5NzcwNjA2N30.tQKRm8mNBbCbnPgbXhB2Ju5HnGR-CB8XQOov4m82W4k";
-const RESEND_KEY = "re_jipLBey6_KdGjzFtimHVNE3SzwCBb4Xsd";
+const RESEND_KEY = "re_L6fQdwKd_7Epo8Eh7ZDsLX1WNuBGf7MsP";
 
 export default async function handler(req, res) {
   try {
